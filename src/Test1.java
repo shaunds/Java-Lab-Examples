@@ -27,7 +27,6 @@ public class Test1 {
 		}
 		else {
 			System.out.println("Odd Number");
-		//change
 		}
 
 	}
