@@ -25,7 +25,7 @@ public class Test1 {
 		if(input%2==0) {
 			System.out.println("Even Number");
 		}
-		else {//change
+		else {//change1
 			System.out.println("Odd Number");
 		}
 
